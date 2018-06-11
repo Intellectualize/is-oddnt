@@ -1,0 +1,29 @@
+{
+  "name": "is-oddnt",
+  "version": "1.0.0",
+  "description": "Returns true if the given number is oddn't or isn't an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTostu/is-oddnt.git"
+  },
+  "keywords": [
+    "odd",
+    "numeric",
+    "math",
+    "joke",
+    "programmerhumor"
+  ],
+  "author": "TheTostu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheTostu/is-oddnt/issues"
+  },
+  "homepage": "https://github.com/TheTostu/is-oddnt#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
