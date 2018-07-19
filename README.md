@@ -1,5 +1,5 @@
 # is-oddnt
-> Returns true if the given number is oddn't or isn't an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
+> Returns true if the given number is oddn't and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
 Please consider following this project's author, [TheTostu](https://github.com/TheTostu), and consider starring the project to show your :heart: and support.
 

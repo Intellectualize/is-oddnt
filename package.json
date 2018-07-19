@@ -1,6 +1,6 @@
 {
   "name": "is-oddnt",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns true if the given number is oddn't or isn't an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
   "main": "index.js",
   "scripts": {
